@@ -14,7 +14,7 @@ object HelloWorld {
     // do stuff
     println("************")
     println("************")
-    println("Hello, world!")
+    println("Hello, World!")
     println("************")
     println("************")
     
